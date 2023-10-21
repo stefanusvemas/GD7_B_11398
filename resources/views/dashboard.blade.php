@@ -94,9 +94,9 @@
                         <p>HOME</p>
                     </div>
                 </a>
-                <a href="{{ url('/') }}" class="header-option">
+                <a href="{{ url('/merchandise') }}" class="header-option">
                     <div>
-                        <p>ABOUT</p>
+                        <p>MERCHANDISE</p>
                     </div>
                 </a>
                 <a href="{{ url('/ticket') }}" class="header-option">
